@@ -390,6 +390,12 @@ color: #ffffff;
 }
 
 
-@media (max-width: 480px)
+@media (max-width: 480px) {
 
- html { font-size: 8px;}
+  html {font-size: 6px;}
+  .hero-text h2 {
+}
+.nav {}
+
+
+}
